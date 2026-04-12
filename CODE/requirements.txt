@@ -1,0 +1,29 @@
+# === Core ML Framework ===
+tensorflow-cpu==2.15.0
+keras==2.15.0
+
+# === Audio Processing ===
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.26.4
+scipy==1.11.4
+
+# === TensorFlow Hub (YAMNet) ===
+tensorflow-hub==0.15.0
+
+# === Machine Learning Utils ===
+scikit-learn==1.3.2
+imblearn==0.0
+imbalanced-learn==0.12.0
+
+# === Flask Web Framework ===
+Flask==3.0.0
+Werkzeug==3.0.1
+Jinja2==3.1.3
+
+# === Plotting (Charts Page) ===
+matplotlib==3.8.2
+
+# === Misc ===
+requests==2.31.0
+protobuf==4.25.1
